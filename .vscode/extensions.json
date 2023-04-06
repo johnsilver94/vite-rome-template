@@ -1,0 +1,7 @@
+{
+	"recommendations": [
+		"rome.rome", // Rome formatter-linter
+		"streetsidesoftware.code-spell-checker", // Spell checker
+		"esbenp.prettier-vscode" // Prettier
+	]
+}
